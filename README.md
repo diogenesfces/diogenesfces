@@ -1,6 +1,6 @@
 # 👦🏽 Diógenes Silva
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Diógenes Francisco Costa e Silva , tenho 39 anos e sou natural do Minas Gerais. Concluí o ensino médio no IFRS, com o curso técnico em informática.Formado em Análise e Desenvolvimento de Sistemas na Newton Paiva. apaixonado por desafios, inovação e produtos
 digitais.
